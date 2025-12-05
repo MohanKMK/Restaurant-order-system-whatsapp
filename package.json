@@ -2,7 +2,7 @@
   "name": "restaurant-order-system",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://.github.io/MohanKMK/Restaurant-order-system-whatsapp",
+  "homepage": "https://mohankmk.github.io/Restaurant-order-system-whatsapp",
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
